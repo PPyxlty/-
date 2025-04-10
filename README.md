@@ -13,7 +13,7 @@
 ## 📦 安裝方式
 
 ### 使用 `.app` 應用程式
-1. 下載 [[`SecureDelete.app.zip`](#)]並解壓縮
+1. 下載 拖拉到我身上直接完全移除.app.zip (https://github.com/PPyxlty/Secure-Delete.app/archive/refs/heads/main.zip) 並解壓縮
 2. 拖曳檔案/資料夾進 App 圖示即可使用
 
 
