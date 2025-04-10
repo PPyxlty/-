@@ -12,14 +12,10 @@
 
 ## 📦 安裝方式
 
-### 方式 1：使用 `.app` 應用程式
-1. 下載 [`SecureDelete.app.zip`](#) 並解壓縮
+### 使用 `.app` 應用程式
+1. 下載 [[`SecureDelete.app.zip`](#)]並解壓縮
 2. 拖曳檔案/資料夾進 App 圖示即可使用
 
-### 方式 2：自己建立 Automator App
-1. 使用 Automator 建立「應用程式」
-2. 加入「執行 Shell Script」
-3. 貼入 [`delete_secure.sh`](./delete_secure.sh) 的內容
 
 ## 🔧 相依工具
 
